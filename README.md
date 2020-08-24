@@ -1,2 +1,1 @@
-# Ray_Xue
-Deep learning AI
+# Deep learning AI
